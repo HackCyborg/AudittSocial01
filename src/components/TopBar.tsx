@@ -43,7 +43,7 @@
 //   return (
 //     <nav className="text-white p-2 fixed w-full top-0 z-50" style={{ backgroundColor: themeColors.primary }}>
 //       <div className="max-w-7xl mx-auto flex items-center justify-between">
-//         <Link to="/" className="text-2xl font-bold">Family Creatives</Link>
+//         <Link to="/" className="text-2xl font-bold">Auditt Social</Link>
         
 //         {user ? (
 //           <div className="flex items-center space-x-6">
